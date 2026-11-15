@@ -31,3 +31,5 @@ Lors de l'exécution du script (`python blockchain_simulation.py`) :
 - Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System* (Section 2 : Transactions et Section 3 : Timestamp Server).
 - Documentation officielle Python — Module `hashlib` (Secure hashes and message digests) : https://docs.python.org/3/library/hashlib.html
 - Documentation GitHub Desktop : https://docs.github.com/en/desktop
+
+- Simulation exécutée et vérifiée localement sous Python 3
